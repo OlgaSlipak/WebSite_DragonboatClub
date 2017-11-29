@@ -1,0 +1,18 @@
+
+h5 
+{
+text-align:text-top; 
+color: blue
+}
+h5 a {text-decoration: none;}
+h5 a:hover {text-decoration: underline;color:black; background-color:white;}
+h3 
+{text-align:right; color: black; font-family: serif; font-size: 1.3em}
+
+#imageP1
+{font-size:138; color:blue; text-align:center; background-image: url(Photo_page1.jpg); background-repeat: no-repeat;
+ background-size: 100% 100%; background-position: center center; 
+ width:1700px; height:780px; padding-left:100px; padding-right:100px; padding-bottom:0px; padding-top:0px; border:0px;margin:0px}
+
+#end 
+{text-align: right; font-size:0.8em; margin-right:1000px}

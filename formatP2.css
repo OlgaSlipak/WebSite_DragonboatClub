@@ -1,0 +1,35 @@
+
+h5 
+{
+text-align:text-top; 
+color: blue
+}
+h5 a {text-decoration: none;}
+h5 a:hover {text-decoration: underline;color:black; background-color:white;}
+h3 
+{text-align:right; color: black; font-family: serif; font-size: 1.3em}
+
+#imageP1
+{font-size:78; color:blue; text-align:center; background-image: url(Photo_page1.jpg); background-repeat: no-repeat;
+ background-size: 100% 100%; background-origin: border-box;  background-position: center center; background-clip: box;
+ width:1700px; height:680px; }
+
+#end 
+{text-align: right; font-size:0.8em; margin-right:1000px; padding-top:150px}
+
+#Photo_page2
+{float: right}
+
+#list p {color:blue; background-color: rgb(255,255,0); font-family:cursive;font-size:50pt; text-align:center; }
+
+#list ul{list-style-image:url(bullet.jpg); padding-left:70px; list-style-position: inside;
+font-size:18pt;font-family:Arial, Helvetica, san-serif}
+
+#page_content {position: relative; left:0px; top:0px;}
+		#page_content {width:100%;}
+		#page_content {min-width:100%;max-width:100%;}
+
+
+
+
+
